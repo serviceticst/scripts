@@ -1,4 +1,4 @@
-## Scripts uteis do dia a dia
+## Scripts úteis do dia a dia
 
 ######  Desenvolvido por: Service TIC Solucoes Tecnológicas
 ######            E-mail: contato@servicetic.com.br
